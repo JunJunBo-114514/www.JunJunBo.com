@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8>
+<title>菜鸟教程(runoob.com)</title>
+</head>
+<body>
+
+<hl>俊民共和国Cekaliabo</hl>
+<p>俊国机关网站（副总统于2024.10.14创立）</p>
+
+</body>
+</html>
